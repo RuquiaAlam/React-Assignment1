@@ -1,3 +1,7 @@
+# Guide to install Node js to have npm
+
+https://treehouse.github.io/installation-guides/windows/node-windows.html#:~:text=To%20see%20if%20NPM%20is,see%20something%20like%20this%201.4.
+
 # What is Emmet?
 
 - Emmet generates the code inside VS Code.
@@ -38,3 +42,7 @@
 # What are async and defer?
 
 - Async allows script to run as soon as it is loaded without blocking other elements on the page. Defer means script will only execute after the page has finished loading.
+
+# care vs tilde
+
+In summary, tilde( ~ ) and caret( ^ ) are two symbols used to specify version ranges in package. json . Tilde( ~ ) allows for patch updates, while caret( ^ ) allows for both minor and patch updates.13-Jun-2023
